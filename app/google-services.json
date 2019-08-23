@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701308331916",
+    "firebase_url": "https://transport-app-1554984195003.firebaseio.com",
+    "project_id": "transport-app-1554984195003",
+    "storage_bucket": "transport-app-1554984195003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701308331916:android:645037387bf33104",
+        "android_client_info": {
+          "package_name": "com.fujitsu.transport.transportapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701308331916-b4eh02i7tf64v865u44ljuoubm2mffot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fujitsu.transport.transportapp",
+            "certificate_hash": "b7fd5519c2f9e306f88bbacec8de92311ca84bdb"
+          }
+        },
+        {
+          "client_id": "701308331916-kceuo5g708p6hiebv3pgg1njs2omglo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbKDB1ZilV8Bu_3nCK3gNbBSBjdOWIgMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701308331916-kceuo5g708p6hiebv3pgg1njs2omglo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

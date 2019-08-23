@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fujitsu Transport</string>
+    <string name="cant_connect_internet">Cannot connect to internet.</string>
+    <string name="something_wrong">Something went wrong.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <array name="jobs">
+        <item>Job Role</item>
+        <item>Driver</item>
+        <item>Employee</item>
+    </array>
+    <array name="routes">
+        <item>Nigadi - Fujitsu</item>
+        <item>Wakad - Fujitsu</item>
+        <item>Pune - Fujitsu</item>
+    </array>
+    <string name="title_activity_maps2">Map</string>
+
+    <string name="splash_screen_des">Splash screen is a in png format
+        with right side of 2 dp white margin to fix it </string>
+    <string name="gps_not_found_title">GPS not found.</string>
+    <string name="enable_message">Please enable your location services to get your exact location.</string>
+    <string name="yes">Ok</string>
+    <string name="no">NO</string>
+</resources>
